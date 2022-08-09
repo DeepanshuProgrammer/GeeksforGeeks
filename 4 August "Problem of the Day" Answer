@@ -1,0 +1,43 @@
+ 
+                                                                      GeeksforGeeks
+                                                           
+The Question is :- "Complete Binary Tree"
+Answer :-
+
+class Solution{
+public:    
+    bool isCompleteBT(Node* root){
+        //code here
+        queue<Node*>q1;
+        q1.push(root);
+        int flag=0;
+        while(!q1.empty()){
+            queue<Node*>q2;
+            while(!q1.empty()){
+                Node * temp=q1.front();
+                q1.pop();
+                if(flag==1){
+                    if(temp->left!=NULL || temp->right!=NULL)return false;
+                }
+                if(temp->left!=NULL){
+                    q2.push(temp->left);
+                }
+                if(temp->right!=NULL){
+                    q2.push(temp->right);
+                }
+                if(temp->left==NULL && temp->right!=NULL)return false;
+                if(temp->left==NULL || temp->right==NULL){
+                    flag=1;
+                }
+            }
+            q1=q2;
+        }
+        return true;
+    }
+};
+
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
