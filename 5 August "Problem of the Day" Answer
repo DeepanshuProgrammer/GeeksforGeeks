@@ -1,0 +1,46 @@
+                                                                    GeeksforGeeks
+                                                           
+The Question is :- "X Total Shapes"
+Answer :-
+
+class Solution
+{
+    public:
+    //Function to find the number of 'X' total shapes.
+    void dfs( vector<vector<int>>&vis,int i,int j,vector<vector<char>>& grid,int n,int m)
+    {
+        
+        if(i>=n || i<0 || j<0 || j>=m || vis[i][j]==1) return;
+        if(grid[i][j]=='O') return;
+        vis[i][j]=1;
+        dfs(vis,i+1,j,grid,n,m);//down
+        dfs(vis,i-1,j,grid,n,m);//up
+        dfs(vis,i,j+1,grid,n,m);//left
+        dfs(vis,i,j-1,grid,n,m);//right;
+    }
+    int xShape(vector<vector<char>>& grid) 
+    {
+        int n=grid.size();
+        int cnt=0;
+        int m=grid[0].size();
+        vector<vector<int>>vis(n,vector<int>(m,-1));
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
+            {
+                if(vis[i][j]==-1 && grid[i][j]=='X')
+                {
+                    cnt++;
+                    dfs(vis,i,j,grid,n,m);
+                }
+            }
+        }
+        return cnt;
+    }
+};
+
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
