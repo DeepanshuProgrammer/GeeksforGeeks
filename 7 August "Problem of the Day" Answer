@@ -1,0 +1,22 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Exceptionally odd"
+Answer :-
+
+class Solution{   
+public:
+    int getOddOccurrence(int arr[], int n) {
+        int res=0;
+        for(int i=0;i<n;i++)
+        {
+            res=res^arr[i];
+        }
+        return res;
+    }
+};
+
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
