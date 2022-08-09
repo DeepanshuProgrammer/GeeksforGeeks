@@ -1,0 +1,40 @@
+                                                                    GeeksforGeeks
+                                                           
+The Question is :- "QuickSort on Doubly Linked List"
+Answer :-
+
+class Solution{
+public:
+    Node* partition(Node *l, Node *h){
+        //Your code goes here
+        int pivot = h->data;
+        
+        Node *i = l->prev;
+        
+        for(Node *j = l; j !=h; j=j->next){
+            if(j->data <=pivot){
+                if(i==NULL){
+                    i=l;
+                }
+                else{
+                    i=i->next;
+                }
+                swap(&(i->data), &(j->data));
+            }
+        }
+        if(i==NULL){
+            i=l;
+        }
+        else{
+            i=i->next;
+        }
+        swap(&(i->data), &(h->data));
+        return (i);
+    }
+};
+
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
