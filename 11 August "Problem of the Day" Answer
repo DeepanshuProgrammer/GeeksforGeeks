@@ -1,0 +1,55 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Pots of Gold Game"
+Answer :-
+
+class Solution {
+public:
+    // int solve(vector<int>&nums,int i, int j){
+    //     if(i==j)return nums[i];
+    //     if(i>j)return 0;
+    //     int left = nums[i]+min(solve(nums,i+2,j),solve(nums,i+1,j-1));
+    //     int right = nums[i]+min(solve(nums,i,j-2),solve(nums,i+1,j-1));
+    //     return max(left,right);
+    // }
+    // int maxCoins(vector<int>&nums,int n)
+    // {
+	   // //Write your code here
+	   // return solve(nums,0,n-1);
+	    
+    // }
+    
+    int dp[1001][1001];
+int solve(vector<int>& A,int i,int j)
+{
+   if(i==j)
+   {
+       return A[i];
+   }
+   if(i>j)
+   {
+       return 0;
+   }
+   if(dp[i][j]!=-1)
+   {
+       return dp[i][j];
+   }
+   
+   int left = A[i] + min(solve(A,i+2,j),solve(A,i+1,j-1));
+   int right = A[j] + min(solve(A,i,j-2),solve(A,i+1,j-1));
+   
+   return dp[i][j] = max(left,right);
+}
+   int maxCoins(vector<int>&A,int n)
+   {
+    memset(dp,-1,sizeof(dp));
+     return solve(A,0,n-1);
+    
+    
+   }
+};
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
