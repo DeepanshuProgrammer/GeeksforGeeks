@@ -1,0 +1,43 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Case-specific Sorting of Strings"
+Answer :-
+
+class Solution
+{
+    public:
+    //Function to perform case-specific sorting of strings.
+    string caseSort(string str, int n)
+    {
+        // your code here
+        string low="",up="";
+        for(char ch : str)
+        {
+            if(ch>='a' && ch<='z')
+            low+=ch;
+            else
+            up+=ch;
+        }
+        sort(low.begin(),low.end());
+        sort(up.begin(),up.end());
+        for(int i=0,j=0,k=0;i<n;i++)
+        {
+            if(str[i]>='a' && str[i]<='z')
+            {
+                str[i]=low[j];
+                j++;
+            }
+            else
+            {
+                str[i]=up[k];
+                k++;
+            }
+        }
+        return str;
+    }
+};
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
