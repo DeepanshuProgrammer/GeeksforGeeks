@@ -1,0 +1,31 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Max length chain"
+Answer :-
+
+class Solution{
+public:
+    /*You are required to complete this method*/
+    int maxChainLen(struct val p[],int n){
+        //Your code here
+             vector<pair<int,int>> ans;
+       for(int i=0;i<n;i++){
+           ans.push_back({p[i].second,p[i].first});
+       }
+       sort(ans.begin(),ans.end());
+       int count =0;
+       int x=-1;
+       for(int i=0;i<n;i++){
+           if(ans[i].second>x){
+              count++;
+              x=ans[i].first;
+           }
+       }
+       
+       return count;
+    }
+};
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
