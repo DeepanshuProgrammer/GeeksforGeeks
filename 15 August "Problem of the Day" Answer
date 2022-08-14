@@ -1,0 +1,55 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Number of Turns in Binary Tree"
+Answer :-
+
+class Solution{
+  public:
+    // function should return the number of turns required to go from first node to second node 
+    
+    Node *lca(Node *root,int u,int v){
+        if(!root)
+            return root;
+        if(root->data==u || root->data==v)
+            return root;
+        Node *l=lca(root->left,u,v);
+        Node *r=lca(root->right,u,v);
+        if(l&&r)
+            return root;
+        return l?l:r;
+    }
+    int turns(Node *root,int u,int v,int dir){
+        if(!root)
+            return -1;
+        if(root->data==u || root->data==v)
+            return 0;
+        int l=-1,r=-1;
+        if(root->left)
+            l=turns(root->left,u,v,0);
+        if(root->right)
+            r=turns(root->right,u,v,1);
+        if(l==-1 && r==-1)
+            return -1;
+        if(l!=-1)
+            return l+(dir ? 1:0);
+        if(r!=-1)
+            return r+(dir?0:1);
+        
+    }
+    int NumberOFTurns(struct Node* root, int first, int second)
+    {
+        Node *par=lca(root,first,second);
+        if(par->data==first || par->data==second){
+            int toFind = par->data==first ? second:first;
+            return min(turns(par,toFind,toFind,0),turns(par,toFind,toFind,1));
+        }
+        int l = turns(par->left,first,second,0);
+        int r = turns(par->right,first,second,1);
+        return 1+l+r;
+    }
+};
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
