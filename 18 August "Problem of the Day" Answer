@@ -1,0 +1,37 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Longest Sub-Array with Sum K"
+Answer :-
+
+class Solution{
+    public:
+    int lenOfLongSubarr(int A[],  int N, int K) 
+    { 
+        // Complete the function
+        int maxLen=0, sum=0;
+        map<int,int> hashMap;
+        hashMap[0]=0;
+        
+        for(int i=0; i<N; i++){
+            sum+=A[i];
+
+            int valToBeFound=sum-K;
+            
+            if(hashMap.find(valToBeFound)!=hashMap.end() && hashMap[valToBeFound]<i+1){
+                maxLen=max(i+1-hashMap[valToBeFound], maxLen);
+            }
+            
+            if(hashMap.find(sum)==hashMap.end()){
+                hashMap[sum]=i+1;
+            }
+        }
+        
+        return maxLen;
+    } 
+
+};  
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
