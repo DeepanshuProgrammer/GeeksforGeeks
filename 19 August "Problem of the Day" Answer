@@ -1,0 +1,54 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Unit Area of largest region of 1's"
+Answer :-
+
+class Solution
+{
+    public:
+   int m,n ;
+    int dxy[8][2] = {{1,0} , {1,1} , {0,1} , {-1,1} , {-1,0} , {-1,-1} , {0,-1} , {1,-1}} ;
+    bool valid(int x, int y){
+        return ((x>=0) && (y>=0) && (x<m) && (y<n)) ;
+    }
+    int bfs(int a , int b , vector<vector<int>>& grid){
+       queue<pair<int , int>> q ;
+       int cnt = 0 ;
+       q.push({a,b}) ;
+       grid[a][b] = 0 ; 
+       while(!q.empty()){
+           pair<int , int> top = q.front() ;
+           a = top.first ;
+           b = top.second ;
+           q.pop(); 
+           cnt++ ;
+           for(int i=0;i<8;i++){
+               int x = a + dxy[i][0] ; 
+               int y = b + dxy[i][1] ; 
+               if(valid(x,y) && (grid[x][y]==1)){
+                   q.push({x,y}) ;
+                   grid[x][y] = 0; 
+               }
+           }
+       }
+       return cnt ; 
+    } 
+    int findMaxArea(vector<vector<int>>& grid) {
+        m = grid.size() ;
+        n = grid[0].size() ;
+        int ans = 0 ; 
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==1){
+                    ans = max(ans , bfs(i,j,grid)) ; 
+                }
+            }
+        }
+        return ans ; 
+    }
+};
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
