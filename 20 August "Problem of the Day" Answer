@@ -1,0 +1,63 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Sum of two large numbers"
+Answer :-
+
+class Solution {
+  public:
+    string findSum(string X, string Y) 
+    {
+        if(X.length()<Y.length())
+        {
+            int n=Y.length()-X.length();
+            for(int i=0;i<n;i++)
+            {
+                X='0'+X;
+            }
+        }
+        else if(X.length()>Y.length())
+        {
+            int n=X.length()-Y.length();
+            for(int i=0;i<n;i++)
+            {
+                Y='0'+Y;
+            }
+        }
+        int carry=0,n=X.length();
+        string ans;
+        for(int i=n-1;i>=0;i--)
+        {
+            int num1=X[i]-'0',num2=Y[i]-'0';
+            int sum=carry+num1+num2;
+            int sum1=sum%10;
+            carry=sum/10;
+            char digit='0'+sum1;
+            ans=digit+ans;
+        }
+        if(carry>0)
+        {
+            char car='0'+carry;
+            ans=car+ans;
+        }
+        int isDigit=-1;
+        string finalAns;
+        for(int i=0;i<ans.length();i++)
+        {
+            if(ans[i]!='0' || i==n-1)
+            {
+                isDigit=i;
+                break;
+            }
+        }
+        for(int i=isDigit;i<ans.length();i++)
+        {
+            finalAns=finalAns+ans[i];
+        }
+        return finalAns;
+    }
+};  
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
