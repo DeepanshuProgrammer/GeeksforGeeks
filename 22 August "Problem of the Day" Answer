@@ -1,0 +1,17 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Immediate Smaller Element"
+Answer :-
+
+class Solution{
+public:	
+	void immediateSmaller(int *arr, int n) {
+	    for(int i = 0; i < n - 1; arr[i] = arr[i] > arr[i+1]? arr[i+1]:-1, i++);
+	    arr[n-1] = -1;
+    }
+};
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
