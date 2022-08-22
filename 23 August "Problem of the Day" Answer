@@ -1,0 +1,31 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Foldable Binary Tree"
+Answer :-
+
+bool helper(Node *root1,Node *root2)
+{
+    if(!root1 && !root2)
+    {
+        return true;
+    }
+    else if(!root1 || !root2)
+    {
+        return false;
+    }
+    return helper(root1->left,root2->right) && helper(root1->right,root2->left);
+}
+//Function to check whether a binary tree is foldable or not.
+bool IsFoldable(Node* root)
+{
+    if(!root)
+    {
+        return true;
+    }
+    return helper(root,root);
+} 
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
