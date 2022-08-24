@@ -1,0 +1,37 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Counting elements in two arrays"
+Answer :-
+
+class Solution{
+    int bs(int arr[],int n,int target){
+        
+        int l = 0, r = n-1;
+        while(l<=r){
+            int mid = (l+r)/2;
+            if(arr[mid] <= target){
+                l = mid + 1;
+            }else{
+                r = mid - 1;
+            }
+        }
+        return l;
+    }
+  public:
+    vector<int> countEleLessThanOrEqual(int arr1[], int arr2[], 
+                                 int m, int n)
+    {
+    //Your code goes here
+        vector<int>ans(m,0);
+        sort(arr2,arr2+n);
+        for(int i = 0;i<m;i++){
+            ans[i] = bs(arr2,n,arr1[i]);
+        }
+        return ans;
+    }
+};
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
