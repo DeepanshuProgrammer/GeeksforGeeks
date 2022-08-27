@@ -1,0 +1,98 @@
+                                                                  GeeksforGeeks
+                                                           
+The Question is :- "Alternate positive and negative numbers"
+Answer :-
+
+class Solution{
+public:
+
+	void rearrange(int arr[], int n) {
+	    // code here
+	    
+	    //check for the efficient soln.
+	    
+	    //wht i did here is
+	    //As we have time and space complexity as N
+	    //we can stroe them, in another arrays and do the normal answer.
+	    
+	    //so wht i did is 
+	    //i stored both the positive and neg elenmnts in the queues, not vectors bczo
+	    //if queue, thn we remove the elements at top, with out using the indices, we can just use the key word, pop
+	    //and for pushing also, we just need to use push,
+	    //but where as for the vectors, we need to use the indeices to acces the elements
+	    //and also to delete thm, it will b difficult.
+	    
+	    
+	    //so, after storing thm in the queues, wht i did is
+	    
+	    //first as it was mentioned, we need positive first,
+	    //we will start with the pos elements only.
+	    
+	    //so, we will run the loop, n times only.
+	    //this only better coz, we know, how many times, we hav to run.
+	    
+	    //thn each time, if i is even, thn and if pos not empty.
+	    //we replace the arra element as pos.front
+	    //and pop.
+	    //if pos empty, thn we wcheck for the neg elemnt
+	    //thn we will pop frm neg elemmt.
+	    
+	    //similarly, we do like this for the i whn they r not divided by 2.
+	    //in tht case, alos
+	    //if neg not emty, thn we pop.
+	    //if empty, thn we pop frm the pos if thts not empty.
+	    
+	    //thts it.
+	    
+	    
+	    queue<int> pos,neg;
+	    
+	    for(int i=0;i<n;i++)
+	    {
+	        if(arr[i] < 0)
+	        {
+	            neg.push(arr[i]);
+	        }
+	        else
+	        {
+	            pos.push(arr[i]);    
+	        }
+	    }
+	    for(int i=0;i<n;i++)
+	    {
+	        if(i%2 == 0)
+	        {
+	            if(!pos.empty())
+	            {
+	                arr[i] = pos.front();
+	                pos.pop();
+	            }
+	            else
+	            {
+	                arr[i] = neg.front();
+	                neg.pop();
+	            }
+	        }
+	        
+	        else
+	        {
+	            if(!neg.empty())
+	            {
+	                arr[i] = neg.front();
+	                neg.pop();
+	            }
+	            else
+	            {
+	                arr[i] = pos.front();
+	                pos.pop();
+	            }
+	        }
+	    }
+	    
+	}
+};
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
