@@ -1,0 +1,45 @@
+                                                                   GeeksforGeeks
+                                                           
+The Question is :- "Binary Tree to DLL"
+Answer :-
+
+class Solution
+{
+    public: 
+    //Function to convert binary tree to doubly linked list and return it.
+    void inOrder(Node* root,vector<int> &v){
+       if(root==NULL){
+           return;
+       }
+       inOrder(root->left,v);
+       v.push_back(root->data);
+       inOrder(root->right,v);
+   }
+   Node * bToDLL(Node *root)
+   {
+       // your code here
+       vector<int> a;
+       inOrder(root,a);
+       
+       Node* head=newNode(a[0]);
+       head->left=NULL;
+       Node* curr=head;
+       
+       Node* x;
+       for(int i=1;i<a.size();i++){
+           x=newNode(a[i]);
+           x->left=curr;
+           curr->right=x;
+           curr=x;
+       }
+       x->right=NULL;
+       return head;
+       
+       
+   }
+};
+
+Hope you understand the answer, and complete it.
+Stay Connected for daily Problem of the Day answers.
+
+Thank you All!
