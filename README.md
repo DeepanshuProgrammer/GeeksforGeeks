@@ -1,6 +1,6 @@
 # GeeksforGeeks
 
-Hello Everyone!!.
+Hello Everyone!
 
 My Name is "Deepanshu"
 
