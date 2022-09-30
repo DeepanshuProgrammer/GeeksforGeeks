@@ -14,3 +14,5 @@ In, that there is a section named "Problem of the Day", where you can get a new 
 In this amazing platform, you can learn many things. You can learn about many languages without giving a Single Penny from you Pocket.. 
 
 Don't Wait!! Enroll and learn and also claim Different swags and Goodies...
+
+Claim Fast
