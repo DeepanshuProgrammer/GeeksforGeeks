@@ -15,6 +15,6 @@ In this amazing platform, you can learn many things. You can learn about many la
 
 Don't Wait!! Enroll and learn and also claim Different swags and Goodies...
 
-Claim Fast
+Claim Fast...
 
 Best event encourges
