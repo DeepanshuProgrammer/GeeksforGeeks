@@ -1,10 +1,10 @@
 # GeeksforGeeks
 
-Hello Everyone!!
+Hello Everyone!!.
 
 My Name is "Deepanshu"
 
-In this Repository, I am providing you Daily the "Problem of the Day" answers of GeeksforGeeks.
+In this Repository, I am providing you Daily the "Problem of the Day" answers of GeeksforGeeks..
 
 
 Let's Introduce to you first What is "GeeksforGeeks" - So, Basically It is a biggest coding platform, where from the whole world there are different many programmers comes here and compete in many programming languages. Like - C++, Java, C etc.
@@ -15,6 +15,4 @@ In this amazing platform, you can learn many things. You can learn about many la
 
 Don't Wait!! Enroll and learn and also claim Different swags and Goodies...
 
-Claim Fast
-.....
-Best event encourges
+
