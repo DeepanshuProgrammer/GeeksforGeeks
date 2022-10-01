@@ -32,7 +32,7 @@ Don't Wait!! Enroll and learn and also claim Different swags and Goodies.
 
 You have to solve daily One question and compiler it.    
 
-Don't Copy 
+Don't Copy. Do with own
 
 Don't Get Rush into codes   
 
