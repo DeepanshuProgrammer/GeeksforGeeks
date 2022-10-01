@@ -2,14 +2,14 @@
 
 
 
-Let's Introduce Myselft First :
+Let me introduce myselft first :
 
 
-My Name is "Deepanshu"
+My name is "Deepanshu"
 
 I am coding in C++  
 
-In this Repository, I am providing you Daily the "Problem of the Day" answers for GeeksforGeeks.. Solve by own
+In this repository, I am providing you the "Problem of the Day" answers for GeeksforGeeks regularly.. Solve by own
 
 Introduction of GeeksForGeeks :- 
 
@@ -20,9 +20,9 @@ In, that there is a section named "Problem of the Day", where you can get a new 
 
 compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into various gifts, swags as well as learning opportunities. You can exchange it in T-Shirts, Bags, Different Vouchers, Courses, Off-Passes etc. There are many more swags into it. 
 
-Compolete Fast 
+Complete Fast 
 
-You should have to solve it properly.
+You should solve it properly.
 
 In this amazing platform, you can learn many things. You can learn about many languages without giving a Single Penny from you Pocket...
 
