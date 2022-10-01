@@ -21,6 +21,8 @@ compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into vario
 
 Compolete Fast 
 
+You should have to solve it properly.
+
 In this amazing platform, you can learn many things. You can learn about many languages without giving a Single Penny from you Pocket...
 
 Don't Wait!! Enroll and learn and also claim Different swags and Goodies.
