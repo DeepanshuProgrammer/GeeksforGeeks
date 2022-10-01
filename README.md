@@ -5,7 +5,7 @@
 Let's Introduce Myselft First :
 My Name is "Deepanshu"
 
-In this Repository, I am providing you Daily the "Problem of the Day" answers of GeeksforGeeks..
+In this Repository, I am providing you Daily the "Problem of the Day" answers for GeeksforGeeks..
 
 Introduction of GeeksForGeeks :- 
 
