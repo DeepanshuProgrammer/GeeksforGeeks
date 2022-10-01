@@ -4,7 +4,7 @@
 
 Let's Introduce Myselft First who I am and what I am doing now :
 
-I am a Student  
+I am a Student  and in school. 
 
 
 My Name is "Deepanshu" and I am a student
