@@ -34,6 +34,6 @@ You have to solve daily One question and compiler it. It have also to submit the
 
 Don't Copy. Do with own
 
-Don't Get Rush into codes   
+Don't Get Rush into codes learn and earn easily..
 
 
