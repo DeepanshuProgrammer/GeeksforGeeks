@@ -2,7 +2,7 @@
 
 
 
-Let's Introduce Myselft First who I am and what I am doing now in 2022 {Current Year] :- 
+Let's Introduce Myselft First who I am and what I am doing now in 2022 {Current Year] :- Follow my Routine
 
 I am a Student  and in school and in the 11th class. Learn with me and earn swags with me. So lets go and take the swags
 
