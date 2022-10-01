@@ -17,7 +17,7 @@ Introduction of GeeksForGeeks :-
 
 In, that there is a section named "Problem of the Day", where you can get a new question daily at 12:00 A.M. You have to solve the problem and by completing and 
 
-compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into various gifts, swags as well as learning opportunities. You can exchange it in T-Shirts, Bags, Different Vouchers, Courses, Off-Passes etc.
+compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into various gifts, swags as well as learning opportunities. You can exchange it in T-Shirts, Bags, Different Vouchers, Courses, Off-Passes etc. There are many more swags into it. 
 
 Compolete Fast 
 
