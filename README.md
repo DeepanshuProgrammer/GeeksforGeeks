@@ -28,7 +28,7 @@ You should have to solve it properly. Do it now and claim your swag.
 
 In this amazing platform, you can learn many things. You can learn about many languages without giving a Single Penny from you Pocket...
 
-Don't Wait!! Enroll and learn and also claim Different swags and Goodies. SO go fast my friends
+Don't Wait!! Enroll and learn and also claim Different swags and Goodies. SO go fast my friends and complete. 
 
 You have to solve daily One question and compiler it. It have also to submit the question.
 
