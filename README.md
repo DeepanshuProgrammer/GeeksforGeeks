@@ -13,7 +13,7 @@ I am coding in C++  & also in Java and their are so many languages as your wish.
 
 In this Repository, I am providing you Daily the "Problem of the Day" answers for GeeksforGeeks.. Solve by own
 
-Introduction of GeeksForGeeks which is a coding  and huge programming site :- You have to try in your Mobile or also with your PC.
+Introduction of GeeksForGeeks which is a coding  and huge programming site :- You have to try in your Mobile or also with your PC. and with any other device.
 
 You have to solve it correctly and submit. After Compiling it is showing correct it is being submitted.
 
