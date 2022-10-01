@@ -28,7 +28,9 @@ In this amazing platform, you can learn many things. You can learn about many la
 
 Don't Wait!! Enroll and learn and also claim Different swags and Goodies.
 
-You have to solve daily One question.   
+You have to solve daily One question. 
+
+Don't Copy 
 
 Don't Get Rush into codes   
 
