@@ -11,7 +11,7 @@ I am coding in C++
 
 In this Repository, I am providing you Daily the "Problem of the Day" answers for GeeksforGeeks.. Solve by own
 
-Introduction of GeeksForGeeks :- 
+Introduction of GeeksForGeeks which is a codin site :- 
 
 You have to solve it correctly    
 
