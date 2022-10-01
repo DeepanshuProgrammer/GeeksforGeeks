@@ -30,7 +30,7 @@ In this amazing platform, you can learn many things. You can learn about many la
 
 Don't Wait!! Enroll and learn and also claim Different swags and Goodies.
 
-You have to solve daily One question and compiler it.    
+You have to solve daily One question and compiler it. It have also to submit the question.
 
 Don't Copy. Do with own
 
