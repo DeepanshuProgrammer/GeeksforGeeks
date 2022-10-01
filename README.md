@@ -15,7 +15,7 @@ In this Repository, I am providing you Daily the "Problem of the Day" answers fo
 
 Introduction of GeeksForGeeks which is a coding  and huge programming site :- You have to try in your Mobile.
 
-You have to solve it correctly and submit.
+You have to solve it correctly and submit. After Compiling it is showing correct
 
 
 In, that there is a section named "Problem of the Day", where you can get a new question daily at 12:00 A.M. You have to solve the problem and by completing and 
