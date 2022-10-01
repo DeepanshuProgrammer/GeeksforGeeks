@@ -32,7 +32,7 @@ Don't Wait!! Enroll and learn and also claim Different swags and Goodies. SO go 
 
 You have to solve daily One question and compiler it. It have also to submit the question.
 
-Don't Copy. Do with own
+Don't Copy. Do with own because you cannot gain knowlege by that.   
 
 Don't Get Rush into codes   
 
