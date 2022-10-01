@@ -9,7 +9,7 @@ I am a Student  and in school and in the 11th class.
 
 My Name is "Deepanshu" and I am a student
 
-I am coding in C++  & also in Java and their are so many languages.
+I am coding in C++  & also in Java and their are so many languages as your wish.
 
 In this Repository, I am providing you Daily the "Problem of the Day" answers for GeeksforGeeks.. Solve by own
 
