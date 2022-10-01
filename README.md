@@ -24,7 +24,7 @@ compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into vario
 
 Compolete Fast and you will get the goodies at time.
 
-You should have to solve it properly. Do it now 
+You should have to solve it properly. Do it now and claim your swag.
 
 In this amazing platform, you can learn many things. You can learn about many languages without giving a Single Penny from you Pocket...
 
