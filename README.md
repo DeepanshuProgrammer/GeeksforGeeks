@@ -7,7 +7,7 @@ Let's Introduce Myselft First who I am and what I am doing now in 2022:
 I am a Student  and in school and in the 11th class. Learn with me
 
 
-My Name is "Deepanshu" and I am a student
+My Name is "Deepanshu" and I am a student and you also with me. 
 
 I am coding in C++  & also in Java and their are so many languages as your wish.
 
