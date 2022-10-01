@@ -10,7 +10,7 @@ In this Repository, I am providing you Daily the "Problem of the Day" answers of
 Introduction of GeeksForGeeks :- 
 
 
-Let's Introduce to you first What is "GeeksforGeeks" - So, Basically It is a biggest coding platform, where from the whole world there are different many programmers comes here and compete in many programming languages. Like - C++, Java, C etc.
+Let's Introduce to you first What is "GeeksforGeeks" - So, Basically It is a biggest coding platform, where from the whole world there are different many programmers comes here and compete in many programming languages. Like - C++, Java, C and more many languages
 
 In, that there is a section named "Problem of the Day", where you can get a new question daily at 12:00 A.M. You have to solve the problem and by completing and compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into various gifts, swags as well as learning opportunities. You can exchange it in T-Shirts, Bags, Different Vouchers, Courses, Off-Passes etc....
 
