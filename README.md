@@ -24,7 +24,7 @@ compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into vario
 
 Compolete Fast and you will get the goodies at time. For the home delivery. It shall be delivered in 10 days. you have to wait for some time
 
-You should have to solve it properly. Do it now and claim your swag. It will be deliverd fastly. 
+You should have to solve it properly. Do it now and claim your swag. It will be deliverd fastly. Grow up and get swags 
 
 In this amazing platform, you can learn many things. You can learn about many languages without giving a Single Penny from you Pocket... so solve the question 
 
