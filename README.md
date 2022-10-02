@@ -37,3 +37,6 @@ Don't Copy. Do with own because you cannot gain knowlege by that.
 Don't Get Rush into codes learn and earn easily.. So you achieve the hights.      
 
 
+
+
+Do it fast.
