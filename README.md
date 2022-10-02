@@ -9,7 +9,7 @@ I am a Student  and in school and in the 11th class. Learn with me and earn swag
 
 My Name is "Deepanshu" and I am a student and you also with me. Stay with me and follow also. 
 
-I am coding in C++  & also in Java and their are so many languages as your wish. By the world wide to connect with people
+I am coding in C++  & also in Java and their are so many languages as your wish. By the world wide to connect with people and to intitate the goodiesx. 
 
 In this Repository, I am providing you Daily the "Problem of the Day" answers for GeeksforGeeks.. Solve by own and don't cheat. You will ban if you cheat. 
 
