@@ -13,7 +13,7 @@ I am coding in C++  & also in Java and their are so many languages as your wish.
 
 In this Repository, I am providing you Daily the "Problem of the Day" answers for GeeksforGeeks.. Solve by own and don't cheat. You will ban if you cheat. 
 
-Introduction of GeeksForGeeks which is a coding  and huge programming site :- You have to try in your Mobile or also with your PC. and with any other device.
+Introduction of GeeksForGeeks which is a coding  and huge programming site :- You have to try in your Mobile or also with PC. and with any other device.
 
 You have to solve it correctly and submit. After Compiling it is showing correct it is being submitted. Then you will take a Geek Bit. So you can exchange it in swags and goodies as you wish. That was an amazing program. You can chance to get certificates. Very Nice
 
