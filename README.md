@@ -11,7 +11,7 @@ My Name is "Deepanshu" and I am a student and you also with me. Stay with me and
 
 I am coding in C++  & also in Java and their are so many languages as your wish. By the world wide 
 
-In this Repository, I am providing you Daily the "Problem of the Day" answers for GeeksforGeeks.. Solve by own and don't cheat.
+In this Repository, I am providing you Daily the "Problem of the Day" answers for GeeksforGeeks.. Solve by own and don't cheat. You will ban if you cheat. 
 
 Introduction of GeeksForGeeks which is a coding  and huge programming site :- You have to try in your Mobile or also with your PC. and with any other device.
 
