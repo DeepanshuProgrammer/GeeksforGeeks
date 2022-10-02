@@ -9,9 +9,9 @@ I am a Student  and in school and in the 11th class. Learn with me and earn swag
 
 My Name is "Deepanshu" and I am a student and you also with me. Stay with me and follow also. 
 
-I am coding in C++  & also in Java and their are so many languages as your wish. By the world wide 
+I am coding in C++  & also in Java and their are so many languages as your wish. By the world wide to connect with people
 
-In this Repository, I am providing you Daily the "Problem of the Day" answers for GeeksforGeeks.. Solve by own and don't cheat.
+In this Repository, I am providing you Daily the "Problem of the Day" answers for GeeksforGeeks.. Solve by own and don't cheat. You will ban if you cheat. 
 
 Introduction of GeeksForGeeks which is a coding  and huge programming site :- You have to try in your Mobile or also with your PC. and with any other device.
 
@@ -22,7 +22,7 @@ In, that there is a section named "Problem of the Day", where you can get a new 
 
 compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into various gifts, swags as well as learning opportunities. You can exchange it in T-Shirts, Bags, Different Vouchers, Courses, Off-Passes etc. There are many more swags into it. 
 
-Compolete Fast and you will get the goodies at time. For the home delivery. It shall be delivered in 10 days.
+Compolete Fast and you will get the goodies at time. For the home delivery. It shall be delivered in 10 days. you have to wait for some time
 
 You should have to solve it properly. Do it now and claim your swag.
 
@@ -36,9 +36,10 @@ Don't Copy. Do with own because you cannot gain knowlege by that.
 
 Don't Get Rush into codes learn and earn easily.. So you achieve the hights.     
 
-Check your
+Check your performance
+
+
+Working for professionals..
 
 
 
-
-The best thing you can do is to code.
