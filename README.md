@@ -30,7 +30,7 @@ In this amazing platform, you can learn many things. You can learn about many la
 
 Don't Wait!! Enroll and learn and also claim Different swags and Goodies. SO go fast my friends and complete. 
 
-You have to solve daily One question and compiler it. It have also to submit the question.
+You have to solve daily One question and compiler it. It have also to submit the question. Do it very fast.
 
 Don't Copy. Do with own because you cannot gain knowlege by that.   
 
