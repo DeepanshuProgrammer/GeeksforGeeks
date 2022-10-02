@@ -15,7 +15,7 @@ In this Repository, I am providing you Daily the "Problem of the Day" answers fo
 
 Introduction of GeeksForGeeks which is a coding  and huge programming site :- You have to try in your Mobile or also with PC. and with any other device.
 
-You have to solve it correctly and submit. After Compiling it is showing correct it is being submitted. Then you will take a Geek Bit. So you can exchange it in swags and goodies as you wish. That was an amazing program. You can chance to get certificates. Very Nice and awesome program
+You have to solve it correctly and submit. After Compiling it is showing correct it is being submitted. Then you will take a Geek Bit. So you can exchange it in swags and goodies as you wish. That was an amazing program. You can chance to get certificates. Very Nice and awesome program. Complete it fast 
 
 
 In, that there is a section named "Problem of the Day", where you can get a new question daily at 12:00 A.M. You have to solve the problem and by completing and claiming the awesome tshirt. 
@@ -39,7 +39,7 @@ Don't Get Rush into codes learn and earn easily.. So you achieve the hights. So 
 Check your performance
 
 
-Working for professionals..
+Working for professionals....
 Doing a Great Job.
 
 
