@@ -15,7 +15,7 @@ In this Repository, I am providing you Daily the "Problem of the Day" answers fo
 
 Introduction of GeeksForGeeks which is a coding  and huge programming site :- You have to try in your Mobile or also with your PC. and with any other device.
 
-You have to solve it correctly and submit. After Compiling it is showing correct it is being submitted. Then you will take a Geek Bit. So you can exchange it in swags and goodies as you wish. That was an amazing program. You can chance to get certificates. 
+You have to solve it correctly and submit. After Compiling it is showing correct it is being submitted. Then you will take a Geek Bit. So you can exchange it in swags and goodies as you wish. That was an amazing program. You can chance to get certificates. Very Nice
 
 
 In, that there is a section named "Problem of the Day", where you can get a new question daily at 12:00 A.M. You have to solve the problem and by completing and 
