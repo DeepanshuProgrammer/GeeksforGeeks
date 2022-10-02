@@ -22,7 +22,7 @@ In, that there is a section named "Problem of the Day", where you can get a new 
 
 compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into various gifts, swags as well as learning opportunities. You can exchange it in T-Shirts, Bags, Different Vouchers, Courses, Off-Passes etc. There are many more swags into it. 
 
-Compolete Fast and you will get the goodies at time. For the home delivery. It shall be delivered in 10 days.
+Compolete Fast and you will get the goodies at time. For the home delivery. It shall be delivered in 10 days. you have to wait for some time
 
 You should have to solve it properly. Do it now and claim your swag.
 
