@@ -41,5 +41,3 @@ Don't Get Rush into codes learn and earn easily.. So you achieve the hights.
 
 
 
-
-Just practice and solve everything properly and fast.
