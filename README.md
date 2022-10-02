@@ -7,7 +7,7 @@ Let's Introduce Myselft First who I am and what I am doing now in 2022 {Current 
 I am a Student  and in school and in the 11th class. Learn with me and earn swags with me. So lets go and take the swags and enjoy the swags. Follow my steps
 
 
-My Name is "Deepanshu" and I am a student and you also with me. Stay with me and follow also. 
+My Name is "Deepanshu" and I am a student and you also with me. Stay with me and follow also. the steps
 
 I am coding in C++  & also in Java and their are so many languages as your wish. By the world wide to connect with people and to intitate the goodiesx. 
 
