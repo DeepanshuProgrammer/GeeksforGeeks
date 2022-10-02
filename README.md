@@ -4,7 +4,7 @@
 
 Let's Introduce Myselft First who I am and what I am doing now in 2022 {Current Year] :- Follow my Routine to earn the goodies.  It is beneficial to you to get swags
 
-I am a Student  and in school and in the 11th class. Learn with me and earn swags with me. So lets go and take the swags and enjoy the swags. 
+I am a Student  and in school and in the 11th class. Learn with me and earn swags with me. So lets go and take the swags and enjoy the swags. Follow my steps
 
 
 My Name is "Deepanshu" and I am a student and you also with me. Stay with me and follow also. 
