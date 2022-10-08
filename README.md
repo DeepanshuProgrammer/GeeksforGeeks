@@ -6,7 +6,7 @@ Let's Introduce Myselft First who I am and what I am doing now in 2022 {Current 
 
 
 
-My Name is "Deepanshu" and I am a student and you also with me. Busy Stay with me and follow also. the steps to take the swags.
+
 
 I am coding in C++  & also in Java and their are so many languages as your wish. By the world wide to connect with people and to intitate the goodiesx. 
 
