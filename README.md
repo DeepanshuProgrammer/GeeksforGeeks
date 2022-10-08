@@ -34,7 +34,7 @@ You have to solve daily One question and compiler it. It have also to submit the
 
 Don't Copy. Do with own because you cannot gain knowlege by that. and also the swags  
 
-Don't Get Rush into codes learn and earn easily.. So you achieve the hights. So follow the steps properly     
+Don't Get Rush into codes learn and earn easily.. So you achieve the hights. So follow the steps properly and strictly     
 
 Check your performance in the dashboard     
 
