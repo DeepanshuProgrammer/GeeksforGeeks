@@ -17,7 +17,7 @@ In this Repository, I am providing you Daily the "Problem of the Day" answers fo
 You have to solve it correctly and submit. After Compiling it is showing correct it is being submitted. Then you will take a Geek Bit. So you can exchange it in swags and goodies as you wish. That was an amazing program. You can chance to get certificates. Very Nice and awesome program. Complete it fast and securely
 
 
-In, that there is a section named "Problem of the Day", where you can get a new question daily at 12:00 A.M. You have to solve the problem and by completing and claiming the awesome tshirt. Awesome Hamper And Tshirt
+In, that there is a section named "Problem of the Day", where you can get a new question daily at 12:00 A.M. You have to solve the problem and by completing and claiming the awesome tshirt. Awesome Hamper And Tshirt...
 
 compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into various gifts, swags as well as learning opportunities. You can exchange it in T-Shirts, Bags, Different Vouchers, Courses, Off-Passes etc. There are many more swags into it. The swags are very awesome....
 
