@@ -2,7 +2,7 @@
 
 
 
-Let's Introduce Myselft First who I am and what I am doing now in 2022 {Current Year] :- Follow my Routine to earn the goodies.  It is beneficial to you to get swags and geek bits. To redeem the prizes, Complete it on time to get the swags on time...
+Let's Introduce Myselft First who I am and what I am doing now in 2022 {Current Year] :- Follow my Routine to earn the goodies.  It is beneficial to you to get swags and geek bits. To redeem the prizes, Complete it on time to get the swags on time.....
 
 
 
