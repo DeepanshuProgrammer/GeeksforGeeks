@@ -38,7 +38,6 @@ Don't Get Rush into codes learn and earn easily.. So you achieve the hights. So 
 Check your performance in the dashboard  of your tokens   
 
 
-Working for professionals.... and for goodies   
-Doing a Great Job.
+
 
 
