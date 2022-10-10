@@ -19,7 +19,7 @@ You have to solve it correctly and submit. After Compiling it is showing correct
 
 In, that there is a section named "Problem of the Day", where you can get a new question daily at 12:00 A.M. You have to solve the problem and by completing and claiming the awesome tshirt. Awesome Hamper And Tshirt
 
-compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into various gifts, swags as well as learning opportunities. You can exchange it in T-Shirts, Bags, Different Vouchers, Courses, Off-Passes etc. There are many more swags into it. The swags are very awesome..
+compiling it, you gain a "Geek Bit". You can exchange this "Geek Bit" into various gifts, swags as well as learning opportunities. You can exchange it in T-Shirts, Bags, Different Vouchers, Courses, Off-Passes etc. There are many more swags into it. The swags are very awesome....
 
 
 
