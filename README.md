@@ -31,7 +31,7 @@ Don't Wait!! Enroll and learn and also claim Different swags and Goodies. SO go 
 
 You have to solve daily One question and compiler it. It have also to submit the question. Do it very fast. to take swags
 
-Don't Copy. Do with own because you cannot gain knowlege by that. and also the swags  weill good and the program was typing. 
+Don't Copy.. Do with own because you cannot gain knowlege by that. and also the swags  weill good and the program was typing. 
 
 Don't Get Rush into codes learn and earn easily.. So you achieve the hights. So follow the steps properly and strictly     
 
