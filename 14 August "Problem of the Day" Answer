@@ -3,7 +3,7 @@
 The Question is :- "Friends Pairing Problem" is :- 
 Answer :-
 
-class Solution
+class Solution :- (
 {
 public:
 long long int mod=1e9+7;
