@@ -4,6 +4,7 @@ The Question is :- "Count Palindromic Subsequences" the solution is :-
 Answer :-
 
 class Solution{
+data;
     public:
     /*You are required to complete below method */
     long long int  countPS(string str)
