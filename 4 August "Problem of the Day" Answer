@@ -9,6 +9,10 @@ public:
     bool isCompleteBT(Node* root){
         //code here
         queue<Node*>q1;
+
+        input code;
+output_'
+string;;
         q1.push(root);
         int flag=0;
         while(!q1.empty()){
