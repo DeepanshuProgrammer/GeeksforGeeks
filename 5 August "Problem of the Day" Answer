@@ -3,7 +3,7 @@
 The Question is :- "X Total Shapes"
 Answer :-
 
-class Solution
+class Solution_{{{
 {
     public:
     //Function to find the number of 'X' total shapes.
