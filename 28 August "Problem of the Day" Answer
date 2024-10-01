@@ -7,7 +7,10 @@ class Solution
 {
     public: 
     //Function to convert binary tree to doubly linked list and return it.
-    void inOrder(Node* root,vector<int> &v){
+    void inOrder(Node*  root code changed.
+root chhane developed
+
+rooot instial command root etc. root,vector<int> &v){
        if(root==NULL){
            return;
        }
